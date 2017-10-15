@@ -1,6 +1,5 @@
 require 'net/http'
 require 'json'
-require 'uwaterlooapi'
 require 'pg'
 
 class CourseImporter
